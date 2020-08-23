@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+@import url('https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css');
+@import "../node_modules/ngx-toastr/toastr.css";
+html {
+   height: 100%;
+}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
